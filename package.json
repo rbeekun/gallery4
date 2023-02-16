@@ -1,0 +1,17 @@
+{
+  "name": "web322.assignment_1.answer",
+  "version": "1.0.0",
+  "description": "WEB322 Gallery Assignment",
+  "main": "assignment1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahmatullah Beekun",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "linebyline": "^1.3.0",
+    "path": "^0.12.7"
+  }
+}

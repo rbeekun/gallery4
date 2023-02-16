@@ -1,0 +1,24 @@
+main{
+    width: 900px;
+}
+form{
+    position: absolute;
+    width: 500px;
+    margin-right: 0;
+}
+img{
+    width: 450px;
+}
+div{
+    position: relative;
+    left: 500px;
+    width: 500px;
+    text-align: center;
+}
+button{
+    width: 450px;
+}
+h1{
+    text-align: center;
+    padding: 15px;
+}
